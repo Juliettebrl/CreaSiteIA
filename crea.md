@@ -76,7 +76,7 @@ Artistes et freelances : Portfolio interactif pour exposer des travaux.
 
 # Exemple de site
 
-![Capture du Site Final](sitewix.png "Capture du Site Final")
+![Capture du Site Final](sitewix.png "Capture du Site")
 
 
 ## Conclusion
