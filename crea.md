@@ -153,7 +153,7 @@ Génération de contenu : Production automatique de textes pour vos différentes
 Ajustement du design : Adaptation des couleurs, polices et éléments visuels avec suggestions de l'IA
 Intégration multimédia : Ajout de vos images, vidéos et autres éléments médias avec assistance IA pour l'optimisation
 
-![Capture du Site Final](/travailcbtf/CreaSiteIA/xcreen.png "Capture du Site Final").
+![Capture du Site Final](xcreen.png "Capture du Site Final").
 
 
 ## Avantages
