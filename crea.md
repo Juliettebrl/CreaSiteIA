@@ -1,3 +1,53 @@
+# Présentation de l’outil "Durable"
+
+Durable est un outil de création de sites web alimenté par l’intelligence artificielle. Conçu pour être simple et rapide, il permet aux entrepreneurs, freelances et petites entreprises de générer un site en quelques minutes sans nécessiter de compétences en programmation ou en design. Avec Durable, l’utilisateur entre quelques informations sur son activité, et l’IA s’occupe du reste en créant un site fonctionnel et esthétique.
+
+## Guide étape par étape pour générer un site avec Durable
+
+Accéder à la plateforme :
+- Rendez-vous sur le site officiel de Durable (durable.co).
+- Cliquez sur "Get Started" pour commencer.
+
+Définir l’activité
+- Indiquez le type d’entreprise ou d’activité pour laquelle vous souhaitez créer un site (ex : agence de marketing, service de coaching, entreprise de rénovation…).
+
+Génération automatique
+- L’IA génère un site web en quelques secondes, comprenant une page d’accueil, des sections adaptées et même du texte personnalisé.
+
+Personnalisation
+- Modifiez les couleurs, les images et les textes pour qu’ils correspondent à votre marque.
+- Ajoutez ou supprimez des sections selon vos besoins.
+
+Ajout des fonctionnalités
+- Activez des fonctionnalités comme la prise de rendez-vous, le formulaire de contact ou l’intégration d’un blog.
+
+Choix du nom de domaine
+- Vous pouvez utiliser un sous-domaine gratuit de Durable ou acheter votre propre nom de domaine.
+
+Publication
+- Une fois satisfait des modifications, cliquez sur “Publier” pour mettre votre site en ligne instantanément.
+
+## Avantages et inconvénients de Durable
+
+✅ Avantages
+- Ultra rapide : un site prêt en quelques minutes.
+- Aucune compétence requise : pas besoin de coder ou de concevoir.
+- IA générative : génère automatiquement du contenu et un design adaptés.
+- Facilité de personnalisation : possibilité de modifier les textes et images facilement.
+- Outils intégrés : CRM, prise de rendez-vous, SEO optimisé.
+
+❌ Inconvénients
+- Moins flexible qu’un CMS traditionnel (ex : WordPress) pour les projets complexes.
+- Dépendance à la plateforme : difficile de migrer le site vers une autre solution.
+- Personnalisation limitée : certains designs et options restent basiques.
+- Tarification : des coûts peuvent s’appliquer pour les fonctionnalités avancées.
+
+## Conclusion
+
+Durable est un excellent choix pour les entrepreneurs qui souhaitent un site web fonctionnel et esthétique en un temps record. Cependant, pour des besoins plus avancés, une plateforme plus flexible peut être nécessaire. 🚀
+
+* * *
+
 # Création de site avec l'IA de WIX 
 
 ## Présentation du site
@@ -82,3 +132,89 @@ Artistes et freelances : Portfolio interactif pour exposer des travaux.
 ## Conclusion
 
 Wix et son intelligence artificielle facilitent la création de sites web professionnels, même pour les débutants. Que vous soyez un entrepreneur, un artiste ou un blogueur, Wix ADI offre une solution rapide et intuitive pour réaliser un site adapté à vos besoins.
+
+* * *
+
+# HubSpot
+
+## Introduction
+HubSpot https://www.hubspot.fr/products/cms/ai-website-generator propose désormais des fonctionnalités d'intelligence artificielle intégrées à sa plateforme de création de sites web
+Ces outils IA permettent de simplifier et d'optimiser le processus de développement web
+Ils s'adressent aussi bien aux débutants qu'aux professionnels du marketing
+
+## Le processus
+
+### Initialisation du projet
+Définition des objectifs : Vous commencez par définir vos objectifs commerciaux et marketing
+Configuration initiale : Création de votre compte HubSpot et sélection du forfait adapté à vos besoins
+Entretien avec l'IA : L'IA vous pose des questions sur votre entreprise, votre secteur, votre audience cible pour comprendre vos besoins
+![Capture du Site Final](screen2.png "Capture du Site Final")
+
+### Génération automatisée
+Suggestion de structure : L'IA propose une architecture de site basée sur vos réponses
+Création de modèles : Proposition de templates adaptés à votre secteur d'activité
+Génération de contenu : Production automatique de textes pour vos différentes pages (accueil, à propos, services, etc.)
+
+### Modification du contenu : Révision et personnalisation des textes générés par l'IA
+Ajustement du design : Adaptation des couleurs, polices et éléments visuels avec suggestions de l'IA
+Intégration multimédia : Ajout de vos images, vidéos et autres éléments médias avec assistance IA pour l'optimisation
+
+![Capture du Site Final](xcreen.png "Capture du Site Final")
+
+
+## Avantages
+
+### Gain de temps considérable
+Réduction drastique du temps de création (jusqu'à 70% selon HubSpot)
+Automatisation des tâches répétitives et chronophages
+
+
+### Accessibilité technique
+Pas besoin de compétences en codage ou en design
+Interface intuitive guidée par l'IA
+
+
+### Optimisation continue
+Amélioration constante basée sur les données réelles de performance
+Suggestions proactives d'améliorations
+
+
+### Qualité professionnelle
+Design moderne respectant les standards actuels
+Structure optimisée pour l'expérience utilisateur
+
+
+### Intégration marketing complète
+Connexion native avec les autres outils marketing de HubSpot
+Vision unifiée de votre stratégie digitale
+
+## Inconvénients
+
+### Manque de personnalisation profonde
+Limitations créatives dans les designs très spécifiques
+Difficultés pour les projets hautement personnalisés ou atypiques
+
+
+### Dépendance à l'écosystème HubSpot
+Intégration parfois complexe avec des outils externes
+Coûts supplémentaires pour accéder à certaines fonctionnalités avancées
+
+
+### Qualité variable du contenu généré
+Nécessité de réviser et personnaliser le contenu produit par l'IA
+Ton parfois trop générique nécessitant des ajustements
+
+
+### Courbe d'apprentissage de la plateforme
+Malgré l'intuitivité, temps d'adaptation nécessaire à l'interface
+Compréhension requise de l'écosystème HubSpot pour une utilisation optimale
+
+
+### Limitations techniques pour les fonctionnalités avancées
+Fonctionnalités très spécifiques nécessitant parfois du développement personnalisé
+Certaines intégrations complexes toujours dépendantes d'interventions manuelles
+
+
+### Coûts potentiellement élevés
+Les fonctionnalités IA les plus avancées sont généralement disponibles dans les forfaits premium
+Augmentation possible des coûts avec la croissance de votre entreprise
