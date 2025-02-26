@@ -124,6 +124,11 @@ Blogueurs : Création d'un blog personnalisé avec des articles et des images.
 
 Artistes et freelances : Portfolio interactif pour exposer des travaux.
 
+# Exemple de site
+
+![Capture du Site Final](sitewix.png "Capture du Site")
+
+
 ## Conclusion
 
 Wix et son intelligence artificielle facilitent la création de sites web professionnels, même pour les débutants. Que vous soyez un entrepreneur, un artiste ou un blogueur, Wix ADI offre une solution rapide et intuitive pour réaliser un site adapté à vos besoins.
