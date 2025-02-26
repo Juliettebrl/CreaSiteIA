@@ -143,6 +143,7 @@ Ils s'adressent aussi bien aux débutants qu'aux professionnels du marketing
 Définition des objectifs : Vous commencez par définir vos objectifs commerciaux et marketing
 Configuration initiale : Création de votre compte HubSpot et sélection du forfait adapté à vos besoins
 Entretien avec l'IA : L'IA vous pose des questions sur votre entreprise, votre secteur, votre audience cible pour comprendre vos besoins
+![Capture du Site Final](screen2.png "Capture du Site Final")
 
 ### Génération automatisée
 Suggestion de structure : L'IA propose une architecture de site basée sur vos réponses
@@ -153,7 +154,7 @@ Génération de contenu : Production automatique de textes pour vos différentes
 Ajustement du design : Adaptation des couleurs, polices et éléments visuels avec suggestions de l'IA
 Intégration multimédia : Ajout de vos images, vidéos et autres éléments médias avec assistance IA pour l'optimisation
 
-![Capture du Site Final](xcreen.png "Capture du Site Final").
+![Capture du Site Final](xcreen.png "Capture du Site Final")
 
 
 ## Avantages
